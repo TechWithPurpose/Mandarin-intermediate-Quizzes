@@ -10,9 +10,9 @@ The quizzes are listed in the chronological order of their creation. **Quiz numb
 
 | No. | Quiz | Topics | Link | Screenshots |
 |:---:|---|---|---|---|
-| 1 | [Quiz 1](#quiz-1) | [Topics] | [Take the quiz](https://forms.gle/FkzEqyZsFJEUhpqq9) | [View screenshots](screenshots/quiz-1/) |
-| 2 | [Quiz 2](#quiz-2) | [Topics] | [Take the quiz](GOOGLE_FORMS_LINK) | [View screenshots](screenshots/quiz-2/) |
-| 3 | [Quiz 3](#quiz-3) | [Topics] | [Take the quiz](GOOGLE_FORMS_LINK) | [View screenshots](screenshots/quiz-3/) |
+| 1 | [Quiz 1](#quiz-1) | [Topics] | [Take the quiz](https://forms.gle/FkzEqyZsFJEUhpqq9) | [View screenshot](screenshots/quiz-1/) |
+| 2 | [Quiz 2](#quiz-2) | [Topics] | [Take the quiz](GOOGLE_FORMS_LINK) | [View screenshot](screenshots/quiz-2/) |
+| 3 | [Quiz 3](#quiz-3) | [Topics] | [Take the quiz](GOOGLE_FORMS_LINK) | [View screenshot](screenshots/quiz-3/) |
 
 <!-- Add new quizzes to the table as they are created. -->
 
@@ -25,7 +25,7 @@ The quizzes are listed in the chronological order of their creation. **Quiz numb
 - **Topics:**  Vocabulary in context, synonyms and semantic distinctions, grammar, and sentence completion
 - **Description:** A fill-in-the-blank quiz that tests the ability to select the most appropriate Chinese word based on its meaning and context. It covers distinctions between related words, descriptive expressions, and grammatical structures.
 - **Google Forms:** [Take the quiz](https://docs.google.com/forms/d/e/1FAIpQLSe4FWGhy0_0inDqivrqveH9MvhwUUa2XZi13kSnFB2T2aSC5Q/viewform?usp=dialog)
-- **Screenshots:** [View screenshots](screenshots/quiz-1/)
+- **Screenshots:** [View screenshot](screenshots/quiz1.png)
 
 The quiz includes distinctions and expressions such as:
 * **来客** — visitor or guest
@@ -44,14 +44,14 @@ The quiz includes distinctions and expressions such as:
 - **Topics:** [Topics covered]
 - **Description:** [Brief description]
 - **Google Forms:** [Take the quiz](GOOGLE_FORMS_LINK)
-- **Screenshots:** [View screenshots](screenshots/quiz-2/)
+- **Screenshots:** [View screenshot](screenshots/quiz-2/)
 
 ### Quiz 3
 
 - **Topics:** [Topics covered]
 - **Description:** [Brief description]
 - **Google Forms:** [Take the quiz](GOOGLE_FORMS_LINK)
-- **Screenshots:** [View screenshots](screenshots/quiz-3/)
+- **Screenshots:** [View screenshot](screenshots/quiz-3/)
 
 <!-- Copy the quiz details section when adding another quiz. -->
 
